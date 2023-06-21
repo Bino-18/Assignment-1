@@ -2,8 +2,8 @@
 
 ### My Details
 
-- Name: Ketan Sai, Vemuri
-- 700#: 700746604
+- Name:
+- 700#: 
 
 ### Drive link (Execution Video Recording)
-link: https://drive.google.com/file/d/1anzXdS98knkPvbuqR98KIZYfEl_ZUs4b/view?usp=drive_link
+link: 
