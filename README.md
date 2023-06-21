@@ -2,8 +2,8 @@
 
 ### My Details
 
-- Name:
-- 700#: 
+- Name: Berlin Bino, Bright Christel Pappa 
+- 700#: 700741472
 
 ### Drive link (Execution Video Recording)
 link: 
